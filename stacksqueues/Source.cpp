@@ -96,6 +96,9 @@ void cli(Stack stack,queue<int> q) {
     }
 }
 
+int init() { 
+    cout << "----------[Welcome To Stacks&Queues!]----------"<<endl;
+    return 200; }
 
 
 int main() {
